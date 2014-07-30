@@ -1,6 +1,6 @@
 # Hello World
 
-Practice repository for learning Git and GitHub
+Repository that stores the history of my learning about Open Source
 
 ## Contributing
 Take a look at `CONTRIBUTING.md` for instructions to contribute.
